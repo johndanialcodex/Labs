@@ -1,0 +1,64 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Nanum+Brush+Script&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Seaweed+Script&display=swap');
+
+body {
+    
+    font-family: 'Nanum Brush Script', cursive;
+    margin: 30px;
+    
+}
+
+header {
+    font-family: 'Seaweed Script';
+    
+}
+
+.MeShip-image {
+    float: right;
+    width: 300px;
+    height: auto;
+    padding: 10px 10px 40px 10px;
+   margin: 30px;
+    border-top: 1px solid #d5d5d5;
+    border-right: 5px solid #d5d5d5;
+    border-bottom: 5px solid #d5d5d5;
+    border-left: 1px solid #d5d5d5; 
+    transform: rotate(3deg) 
+    
+}
+
+
+.MeBooty-image {
+    float: left;
+    width: 300px;
+    height: auto;
+    padding: 10px 10px 40px 10px;
+    margin: 30px;
+    border-top: 1px solid #d5d5d5;
+    border-right: 5px solid #d5d5d5;
+    border-bottom: 5px solid #d5d5d5;
+    border-left: 1px solid #d5d5d5; 
+    transform: rotate(-3deg)
+}
+
+.white-paper {
+    max-width: 800px;
+}
+
+.frist-section {
+    margin-top: 1%;
+    margin-bottom: 1%;
+}
+
+.second-section {
+    margin-top: 1%;
+    margin-bottom: 1%;
+}
+
+.third-section {
+    margin-top: 1%;
+    margin-bottom: 10%;
+}
+
+

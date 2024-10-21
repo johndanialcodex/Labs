@@ -1,0 +1,109 @@
+
+
+.blueBox {
+    
+    background-color: #f0f0f1;
+    position: relative;
+    height: 100vh;
+    width: 100%;
+    z-index: 1;
+}
+
+.grayBox {
+
+    background-color:#ddeef5;
+    position: absolute;
+    top: 10%;
+    left: 10%;
+    bottom: 10%;
+    right: 10%;
+    z-index: 2;
+   
+}
+.square {
+ 
+    z-index: 3;
+ background-color: #ffffff;
+ 
+ position: absolute;
+ top: 10%;
+ left: 10%;
+ bottom: 10%;
+ right: 10%;
+
+width: 200px;
+height: 170px;
+
+ margin: 0 auto; /* Center the box */
+ padding: 20px; /* Add padding inside the box */
+
+ 
+ text-align: center; 
+
+}
+
+.welcome {
+    text-align: center;
+    margin-bottom: 0;
+}
+.signin {
+    text-align: center;
+    margin-top: 0;
+    font-style: italic;
+    color: gray;
+    font-size: 5%;
+}
+
+.email {
+  text-align: left;
+    color: gray;
+    font-size: 70%;
+    margin-bottom: 0%;
+}
+
+.line {
+    text-align: left;
+    color: gray;
+    font-size: 70%;
+    margin-top: -2%;
+  
+}
+
+.password {
+   text-align: left;
+    color: gray;
+    font-size: 70%;
+    margin-bottom: 0%;
+   
+
+}
+
+.bluesignin {
+
+color: white;
+text-align: center;
+background-color: #2b85d3;
+background-position: center;
+font-size: 40%;
+padding: 8px;
+margin: 0 auto;
+position: relative;
+margin-bottom: 0;
+
+width: 130px;
+display: block;
+
+}
+
+.account {
+    text-align: center;
+    font-size: 15%;
+    color: gray;
+}
+
+.inline {
+    
+    display: inline;
+    
+    left: 0;
+}
