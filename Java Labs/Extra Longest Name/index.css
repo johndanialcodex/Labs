@@ -1,0 +1,30 @@
+body {
+    background-color: burlywood;
+
+}
+
+.inputs {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
+
+.clickName {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
+
+.restNames {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
+
+.outputText {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+    color: white;
+    font-size: large;
+}
