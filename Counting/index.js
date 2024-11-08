@@ -63,7 +63,7 @@ for (const element of numbers) {
 
 
 let nameString = "danial";
-let extraSpac = " ";
+let extraSpace = " ";
 let addedSpace = 0
 let targetLength = 10;
 
