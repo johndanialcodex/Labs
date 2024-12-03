@@ -29,18 +29,14 @@ justify-content: end;
 
 .menu ul {
     list-style: none;
-    margin: 0;
-    padding: 0;
+  
     
   }
 
-.menu li {
-    padding: 10px;
-  }
-  
+
 
 .menu a:hover {
-    background-color: #ddd;
+    background-color: gray;
   }
 
   .page-content {
