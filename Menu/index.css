@@ -1,0 +1,55 @@
+body {
+    background-color: cornflowerblue;
+}
+
+
+.buttonDiv {
+
+display: flex;
+justify-content: end;
+
+}
+ 
+
+.menu-location {
+    display: flex;
+    justify-content: end;
+    background-color: red;
+}
+
+.menu {
+    display: none;
+    position: absolute;
+   
+    justify-content: end;
+    
+    
+  }
+
+
+.menu ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    
+  }
+
+.menu li {
+    padding: 10px;
+  }
+  
+
+.menu a:hover {
+    background-color: #ddd;
+  }
+
+  .page-content {
+    display: none;
+   
+  }
+  
+  .page-content.active {
+    display: block;
+    display: flex;
+    justify-content: center;
+  }
