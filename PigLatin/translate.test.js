@@ -4,6 +4,7 @@ describe('Pig Latin Translator', () => {
     
   test('translates a word starting with a single consonant', () => {
     expect(translate('hello')).toBe('ellohay');
+    expect(translate('keyboard')).toBe('eyboardkay');
   });
 
   test('translates a word starting with multiple consonants', () => {
